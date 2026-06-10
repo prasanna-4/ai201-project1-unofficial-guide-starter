@@ -1,0 +1,38 @@
+Rate My Professors — Brookfield University
+Professor: Elena Marsh
+Department: Computer Science
+Course commonly reviewed: CS 201 Data Structures
+Overall rating: 4.1 / 5  | Would take again: 78%  | Difficulty: 4.2 / 5
+
+---
+Review 1  (CS 201, Fall)  Quality 5 / 5  Difficulty 4 / 5
+Professor Marsh is tough but completely fair. Every exam question comes straight from
+the lecture slides, NOT the textbook, so if you go to class and actually take notes you
+will be fine. The weekly problem sets are no joke though — budget 8 to 10 hours each.
+Attendance matters way more than the readings. Would take again.
+
+---
+Review 2  (CS 201, Spring)  Quality 4 / 5  Difficulty 5 / 5
+Heaviest workload of any class I took sophomore year. The problem sets are graded harshly
+but she curves the midterms generously. Important: the FINAL is NOT curved, so do not coast
+into finals week assuming a bump that isn't coming. I learned more from her than any other
+professor in the department.
+
+---
+Review 3  (CS 201, Fall)  Quality 4 / 5  Difficulty 4 / 5
+If you skip lecture you will fail. Exams are basically "did you attend and understand the
+slides." She posts the slides after class but they are skeletal — the real content is what
+she says out loud while drawing the trees and heaps on the board. Office hours are excellent
+and she genuinely wants you to learn.
+
+---
+Review 4  (CS 201, Spring)  Quality 3 / 5  Difficulty 5 / 5
+Brutal but I respect her. Be ready to implement balanced BSTs and hash tables from scratch
+on a timed midterm. The textbook (CLRS) is barely used — everything is slide-driven. Do the
+practice problems she hands out, they are nearly identical to exam questions.
+
+---
+Review 5  (CS 201, Fall)  Quality 5 / 5  Difficulty 4 / 5
+Best professor in the CS department if you put in the work. Heavy problem sets, slide-based
+exams, mandatory attendance in practice. Midterms curved, final not curved. Go to office
+hours early in the semester before they get crowded.

@@ -1,0 +1,29 @@
+Rate My Professors — Brookfield University
+Professor: Anita Reyes
+Department: Computer Science
+Course commonly reviewed: CS 420 Machine Learning
+Overall rating: 4.3 / 5  | Would take again: 74%  | Difficulty: 4.6 / 5
+
+---
+Review 1  (CS 420, Fall)  Quality 5 / 5  Difficulty 5 / 5
+Do NOT take Reyes until you have finished linear algebra. The first two weeks are matrix
+calculus and if you are shaky on vectors and matrices you will be lost immediately. Once you
+have the math, she is an outstanding teacher. Fast-paced and no curve, so stay on top of it.
+
+---
+Review 2  (CS 420, Spring)  Quality 4 / 5  Difficulty 5 / 5
+The prereqs matter. Officially you need CS 310, but the real prereq is being comfortable with
+linear algebra and probability. There is no curve — your grade is exactly what you earn. The
+projects (implementing gradient descent and a small neural net) are the best part.
+
+---
+Review 3  (CS 420, Fall)  Quality 4 / 5  Difficulty 4 / 5
+Fast pace, heavy math, but incredibly rewarding. Take linear algebra first, seriously.
+Reyes is responsive and her lecture notes are detailed. No curve means partial credit on the
+math derivations is your friend — show all your work.
+
+---
+Review 4  (CS 420, Spring)  Quality 4 / 5  Difficulty 5 / 5
+Loved this class but it nearly broke me because I took it before finishing my math
+requirements. If I could redo it I would take linear algebra and the stats course first.
+The content is current and she brings in real research examples.

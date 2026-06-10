@@ -1,0 +1,28 @@
+Source: r/BrookfieldU subreddit thread
+Title: "Easiest CS electives to boost GPA before graduation?"
+
+POST  (u/senior_burnout):
+I'm a second-semester senior and I just need to coast to the finish line. What are the easiest
+CS electives that still count toward the major? Looking for minimal workload.
+
+---
+COMMENT  (u/gpa_optimizer, 67 upvotes):
+Becker's CS 330 Databases, hands down. Slide-reading lectures you can skip, open-note exams,
+take-home final, light homework. It's the canonical "easy A" of the department. You'll learn
+basic SQL and not much else, but for GPA purposes it's perfect.
+
+---
+COMMENT  (u/realtalk_cs, 40 upvotes):
+Seconding Becker. Just go in knowing it's shallow — we never seriously covered indexing or
+query optimization. If you actually want to learn databases for a job, you'll have to
+self-study on the side. But for coasting? Ideal.
+
+---
+COMMENT  (u/double_major, 22 upvotes):
+Avoid anything by Lin or Reyes if you're trying to coast. Lin's OS is 15+ hours a week of C
+projects, and Reyes's ML has no curve and brutal math. Those are the opposite of easy. Patel's
+algorithms is also a no — exams way harder than homework.
+
+---
+COMMENT  (u/senior_burnout, OP):
+Becker it is. Thanks everyone, signing up for databases.

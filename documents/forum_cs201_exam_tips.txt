@@ -1,0 +1,34 @@
+Source: Brookfield CS course forum thread
+Title: "CS 201 (Marsh) — how do I actually study for the exams?"
+
+ORIGINAL POST:
+Midterm 1 in Marsh's data structures is in two weeks and I'm panicking. The problem sets are
+killing me and I don't know how to prep for the exam. Any advice from people who've taken it?
+
+---
+REPLY 1:
+The single most important thing: her exams are 100% from the lecture slides, not the textbook.
+Do not waste time grinding CLRS chapters she didn't cover. Re-derive every data structure she
+drew on the board — linked lists, BSTs, heaps, hash tables — by hand, no IDE.
+
+---
+REPLY 2:
+She hands out practice problems a week before each exam. They are nearly identical in format to
+the real exam questions. If you can do the practice set cold, you'll be fine. Also: midterms
+are curved so don't panic if the raw average is low.
+
+---
+REPLY 3:
+Attendance is everything. The posted slides are skeletal — the actual content is what she says
+out loud. If you missed lectures, borrow detailed notes from someone who didn't. Office hours
+the week before the exam get packed, go early.
+
+---
+REPLY 4:
+One trap: people assume the final is curved like the midterms. It is NOT. Plan your end-of-
+semester effort accordingly — you can't bank on a final curve to save your grade.
+
+---
+REPLY 5:
+Practice implementing a hash table and a balanced BST from scratch on paper, timed. That's the
+kind of thing that shows up. Good luck!

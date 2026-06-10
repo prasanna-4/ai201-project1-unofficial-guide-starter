@@ -1,0 +1,28 @@
+Rate My Professors — Brookfield University
+Professor: Susan Lin
+Department: Computer Science
+Course commonly reviewed: CS 340 Operating Systems
+Overall rating: 4.0 / 5  | Would take again: 71%  | Difficulty: 4.8 / 5
+
+---
+Review 1  (CS 340, Fall)  Quality 4 / 5  Difficulty 5 / 5
+This is the most project-heavy class in the major. You build pieces of a real OS in C on top
+of the xv6 codebase. Expect 15+ hours a week on the projects alone. Brutal workload, but I
+came out a dramatically better programmer. Worth it if you can spare the time.
+
+---
+Review 2  (CS 340, Spring)  Quality 4 / 5  Difficulty 5 / 5
+The projects are done in groups of three and pick your group carefully — a weak partner will
+sink you. Lin's exams are fair and based on the projects and lectures. The C and pointer-heavy
+debugging is where most people lose hours. Do not take this with two other hard classes.
+
+---
+Review 3  (CS 340, Fall)  Quality 5 / 5  Difficulty 5 / 5
+Hardest and most rewarding class at Brookfield. You will hate the kernel debugging at 2am and
+then love it when your scheduler finally works. Lin is responsive on the forum and the project
+specs are detailed. Make sure your C is solid before you start.
+
+---
+Review 4  (CS 340, Spring)  Quality 3 / 5  Difficulty 5 / 5
+Incredible learning but the time sink is real. The group projects dominate your semester.
+If your C is rusty, review pointers and memory management before week one or you will drown.

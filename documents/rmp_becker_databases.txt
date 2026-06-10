@@ -1,0 +1,28 @@
+Rate My Professors — Brookfield University
+Professor: Tom Becker
+Department: Computer Science
+Course commonly reviewed: CS 330 Database Systems
+Overall rating: 3.4 / 5  | Would take again: 62%  | Difficulty: 1.8 / 5
+
+---
+Review 1  (CS 330, Fall)  Quality 3 / 5  Difficulty 2 / 5
+Easiest A in the CS department. Becker reads the slides almost verbatim and the exams are
+open-note. The downside: you will not learn much beyond basic SQL. If you want an easy
+semester or need to balance a hard courseload, this is the class.
+
+---
+Review 2  (CS 330, Spring)  Quality 4 / 5  Difficulty 1 / 5
+Low effort, high grade. Homework is light and the final is a take-home. Honestly I wish it
+were more rigorous — we barely touched indexing or query optimization. Good GPA booster, weak
+on depth.
+
+---
+Review 3  (CS 330, Fall)  Quality 3 / 5  Difficulty 2 / 5
+Lectures are just slide-reading, so attendance is optional and most people skip. The SQL
+assignments are straightforward. Take it if you want a guaranteed good grade, not if you
+actually want to master databases.
+
+---
+Review 4  (CS 330, Summer)  Quality 4 / 5  Difficulty 2 / 5
+Chill professor, chill class. Open-note exams, generous deadlines. You learn enough SQL to
+put it on a resume but not much about how databases work under the hood.

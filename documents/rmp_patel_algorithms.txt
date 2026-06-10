@@ -1,0 +1,29 @@
+Rate My Professors — Brookfield University
+Professor: Raj Patel
+Department: Computer Science
+Course commonly reviewed: CS 310 Algorithms
+Overall rating: 3.2 / 5  | Would take again: 54%  | Difficulty: 4.7 / 5
+
+---
+Review 1  (CS 310, Fall)  Quality 3 / 5  Difficulty 5 / 5
+Patel is a brilliant researcher but his lectures are disorganized — he jumps between topics
+and the board work is hard to follow. The exams are MUCH harder than the homework, which
+catches everyone off guard. You have to read CLRS (the textbook) on your own to survive.
+
+---
+Review 2  (CS 310, Spring)  Quality 4 / 5  Difficulty 5 / 5
+If you teach yourself from the textbook you will be fine; if you rely only on lecture you
+will struggle. Homework is reasonable but the exams have a difficulty cliff. He clearly knows
+the material at a deep level, he just is not a natural teacher. Recommend forming a study group.
+
+---
+Review 3  (CS 310, Fall)  Quality 2 / 5  Difficulty 5 / 5
+Lectures felt improvised. The gap between homework difficulty and exam difficulty is the
+biggest complaint — homework is a warmup, the exam is a marathon. Read CLRS chapters before
+each unit. Curve exists but it is not generous.
+
+---
+Review 4  (CS 310, Spring)  Quality 4 / 5  Difficulty 4 / 5
+Take this class only after you are comfortable with proofs. Patel assumes you can write a
+formal induction argument. The content is fascinating if you can keep up. Do every textbook
+problem, not just the assigned ones.

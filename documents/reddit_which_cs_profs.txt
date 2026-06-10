@@ -1,0 +1,37 @@
+Source: r/BrookfieldU subreddit thread
+Title: "Which CS profs to take and which to avoid? (incoming sophomore)"
+Posted by u/anon_cs_2027
+
+POST:
+I'm declaring CS next semester and trying to plan my schedule. Who's worth taking and who
+should I avoid? Especially for the core sequence (201, 310, 340). Thanks!
+
+---
+TOP COMMENT  (u/seniorcsmajor, 142 upvotes)
+For the core:
+- CS 201 Data Structures: Marsh is the standard pick. Hard but you learn the most. Exams are
+  all from her slides, attendance is basically mandatory. There's also a spring section taught
+  by Professor Nguyen — supposedly more project-based, but I haven't taken it so I can't say.
+- CS 310 Algorithms: Patel is hit or miss. Genius, terrible lecturer, exams way harder than HW.
+  You'll be teaching yourself from CLRS. Only take it once you're good at proofs.
+- CS 340 OS: Lin. It's the hardest class in the major, 15+ hours/week of C projects, but
+  everyone says it's the most worth it. Don't pair it with another heavy course.
+
+---
+REPLY  (u/justgraduated, 88 upvotes)
+Adding the electives:
+- Databases (CS 330) with Becker is the easy A everyone takes to balance a hard semester.
+  You won't learn much depth but the grade is basically free, open-note exams.
+- Machine Learning (CS 420) with Reyes is amazing but DO YOUR LINEAR ALGEBRA FIRST. People
+  who take it without the math get destroyed in the first two weeks.
+
+---
+REPLY  (u/firstyearcoder, 51 upvotes)
+For your very first class if you've never coded: Okafor's CS 101. Most patient prof on campus,
+super beginner friendly, basically an easy A if you show up. The downside is the jump from
+Okafor to Marsh in 201 is brutal because 101 is so gentle.
+
+---
+REPLY  (u/anon_cs_2027, OP)
+This is super helpful, thank you all. Sounds like the plan is Okafor -> Marsh -> Patel/Lin and
+slot Becker in somewhere as a GPA cushion.

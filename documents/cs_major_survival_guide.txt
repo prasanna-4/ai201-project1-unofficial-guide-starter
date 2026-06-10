@@ -1,0 +1,41 @@
+The Unofficial Brookfield CS Major Survival Guide
+(maintained by upperclassmen — not an official department document)
+
+INTRODUCTION
+This guide collects the advice we wish someone had given us as freshmen. The official course
+catalog tells you the prerequisites and credit hours. It does not tell you which professors
+will change how you think, which classes will eat your entire semester, or the order to take
+things in so you don't set yourself up to fail. That's what this guide is for.
+
+RECOMMENDED COURSE SEQUENCE
+Year 1: Start with CS 101 (Intro to Programming) with Okafor if you have little or no coding
+experience. It's gentle, beginner-friendly, and builds a real foundation. Take your math
+sequence in parallel — calculus and especially LINEAR ALGEBRA. You will need linear algebra
+later for machine learning and graphics, and putting it off is the single most common planning
+mistake CS majors here make.
+
+Year 2: CS 201 (Data Structures) with Marsh is the gateway to the major. Be warned: the jump
+from Okafor's gentle 101 to Marsh's rigorous 201 is the steepest difficulty increase you'll
+face. Marsh's exams come entirely from her lecture slides, so attendance is effectively
+mandatory, and the weekly problem sets run 8-10 hours. Midterms are curved; the final is not.
+
+Year 3: This is your heaviest year. CS 310 (Algorithms) with Patel demands strong proof skills
+and a lot of independent reading from CLRS — his exams are far harder than the homework. CS 340
+(Operating Systems) with Lin is the most time-intensive class in the major: 15+ hours a week of
+C programming projects done in groups of three. The hard rule from everyone who survived it:
+NEVER take Patel and Lin in the same semester. Pair each with lighter electives.
+
+Year 4: Specialize. CS 420 (Machine Learning) with Reyes is a favorite, but only attempt it
+after you've completed linear algebra and a statistics course — there is no curve, and the
+first two weeks are pure matrix math. CS 330 (Databases) with Becker is the classic GPA cushion:
+open-note exams, light workload, easy A, though you won't go deep on the material.
+
+WORKLOAD BALANCING
+The golden rule: never stack two project-heavy or two exam-brutal courses in the same term.
+A common safe pattern is to pair one killer (Lin or Patel) with Becker's databases to keep your
+total workload survivable. Plan your semesters around the hard classes, not the easy ones.
+
+OFFICE HOURS
+Use them, and use them EARLY in the semester. Marsh's and Reyes's office hours get packed in
+the week before exams. The students who do best are the ones who show up in week two with
+questions, not week ten in a panic.

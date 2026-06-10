@@ -1,0 +1,30 @@
+Source: Brookfield CS Majors Discord — #pinned-faq channel (exported)
+
+Q: I've never programmed before. What's my first class?
+A: CS 101 with Okafor. It assumes zero experience and he's the most beginner-friendly prof in
+the department. Don't skip it just because you "kind of know Python" — it sets your foundation.
+
+Q: How hard is the jump from CS 101 to CS 201?
+A: Significant. Okafor (101) is very gentle; Marsh (201) is the first real difficulty wall.
+Keep practicing over the break between them. The exam style also changes — Marsh's exams come
+straight from her lecture slides, so attendance becomes critical.
+
+Q: What's the deal with Marsh's grading?
+A: Heavy weekly problem sets (8-10 hrs each). Midterms are curved, the final is NOT curved.
+Go to office hours early in the term before they fill up.
+
+Q: Patel's algorithms class — is it survivable?
+A: Yes, but you have to self-study from CLRS. His exams are much harder than the homework.
+Only take it after you're comfortable writing proofs. Form a study group.
+
+Q: When should I take Lin's OS class?
+A: Not in the same semester as another heavy course. It's 15+ hours/week of C projects in
+groups of three. Brush up on pointers and memory management before week one.
+
+Q: I need an easy class to balance my schedule. Suggestions?
+A: Becker's CS 330 Databases. Open-note exams, light homework, basically a guaranteed good
+grade. Just know you won't go deep on database internals.
+
+Q: What do I need before Reyes's Machine Learning (CS 420)?
+A: Linear algebra, full stop. The official prereq is CS 310, but the math is what trips people
+up. There is no curve in her class, so no safety net — earn every point.
